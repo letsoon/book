@@ -11,28 +11,11 @@
             "id": "841291e7c0b970b9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "测试.md",
-                "staged": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cb1ebbfdebd95b20",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ebfad0f6b20f664b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "测试.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "测试.md"
+              }
             }
           },
           {
@@ -169,8 +156,8 @@
   },
   "active": "841291e7c0b970b9",
   "lastOpenFiles": [
-    "测试.md",
     "2023-06-01.md",
+    "测试.md",
     "未命名.canvas",
     "未命名"
   ]

@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"75d1a67c90c0656a","x":-80,"y":60,"width":400,"height":400,"type":"file","file":"测试.md"},
-		{"id":"f2a5e34ea9db9752","x":-5,"y":-120,"width":250,"height":60,"color":"1","type":"text","text":"啊啊啊"}
-	],
-	"edges":[
-		{"id":"30bb69bebb8fa7d6","fromNode":"f2a5e34ea9db9752","fromSide":"bottom","toNode":"75d1a67c90c0656a","toSide":"top"}
-	]
-}
