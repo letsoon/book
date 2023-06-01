@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +155,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "841291e7c0b970b9",
+  "active": "fb72b3326f6b9246",
   "lastOpenFiles": [
     "测试.md",
     "我的代办/2023-06-01.md",
