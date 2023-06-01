@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "729af33a9f9450c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "705fb5ccaffda85d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "841291e7c0b970b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "测试.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4355a4d5eb4d70e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa44ed82057d36c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49d6cbfa092cee31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "079fcc5767f2428a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0d85e252c1cc4a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10778d809c353920",
+    "type": "split",
+    "children": [
+      {
+        "id": "a85c547b07047b1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7039872bae144a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "测试.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca4d5a7c32d7417b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "测试.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "591fe8480736e9dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0cfa33f9b8bb57b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "测试.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "079fcc5767f2428a",
+  "lastOpenFiles": [
+    "测试.md",
+    "未命名"
+  ]
+}
